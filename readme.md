@@ -54,6 +54,22 @@ Este projeto consiste em duas macros projetadas para o sistema Tormenta 20 no Fo
   ![Exemplo de Uso - 1](/imgs/image-8.png)
   ![Exemplo de Uso - 2](/imgs/image-9.png)
 
+## Melhorias Futuras
+
+1. **Consideração Automática de Resistências e Vulnerabilidades**: 
+   - Implementar funcionalidade para considerar automaticamente RD (Resistência a Dano), resistências, vulnerabilidades e invulnerabilidades nas aplicações automáticas de dano.
+   - Tornar o cálculo de dano mais preciso e reduzir a necessidade de ajustes manuais.
+
+2. **Customização de Regras**:
+   - Permitir a definição de modificadores situacionais que podem ser ativados rapidamente durante o jogo.
+   - Implementar uma interface para analisar e configurar variáveis personalizáveis.
+
+3. **Suporte a Magias e Habilidades Especiais**:
+   - Expandir a funcionalidade para incluir cálculos automáticos para magias e habilidades especiais, não apenas ataques físicos.
+   - Implementar um sistema para lidar com diferentes tipos de testes de resistência e seus efeitos.
+   - Considerar a aplicação de templates de área para marcação dos alvos.
+
+
 ---
 
 # Accuracy Calculator for Tormenta 20 on Foundry VTT
@@ -111,3 +127,18 @@ This project consists of two macros designed for the Tormenta 20 system on Found
 
   ![Usage Example - 1](/imgs/image-8.png)
   ![Usage Example - 2](/imgs/image-9.png)
+
+## Future Improvements
+
+1. **Automatic Consideration of Resistances and Vulnerabilities**: 
+   - Implement functionality to automatically consider DR (Damage Resistance), resistances, vulnerabilities, and invulnerabilities in automatic damage applications.
+   - Make damage calculation more accurate and reduce the need for manual adjustments.
+
+2. **Rule Customization**:
+   - Allow the definition of situational modifiers that can be quickly activated during the game.
+   - Implement an interface to analyze and configure customizable variables.
+
+3. **Support for Spells and Special Abilities**:
+   - Expand functionality to include automatic calculations for spells and special abilities, not just physical attacks.
+   - Implement a system to handle different types of saving throws and their effects.
+   - Consider the application of area templates for target marking.
